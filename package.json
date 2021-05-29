@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/NathanHogan16/PWA-Challenge#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12",
+    "morgan": "^1.10.0"
   }
 }
