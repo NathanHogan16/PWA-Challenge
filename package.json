@@ -1,0 +1,23 @@
+{
+  "name": "pwa-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanHogan16/PWA-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanHogan16/PWA-Challenge/issues"
+  },
+  "homepage": "https://github.com/NathanHogan16/PWA-Challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
